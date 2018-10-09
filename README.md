@@ -1,2 +1,3 @@
 # MonitoringScript
-Скрипты для работы с логами RadioStudio Pro
+Скрипты для работы с логами .RadioStudio Pro
+вещательных серверов
